@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.tricentis.testscript.WishListModule"/>
+      <class name="com.tricentis.testscript.CartModule"/>
+      <class name="com.tricentis.testscript.ContactUsModule"/>
+      <class name="com.tricentis.testscript.ReviewModule"/>
+      <class name="com.tricentis.testscript.LoginModule"/>
+      <class name="com.tricentis.testscript.RegisterModule"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
